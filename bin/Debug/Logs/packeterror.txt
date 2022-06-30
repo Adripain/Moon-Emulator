@@ -1,0 +1,23 @@
+
+Error in packet [2901] BODY: [0]:ia moon[0][0][0][0][0][0][0]: 
+System.IndexOutOfRangeException: O ?ndice estava fora dos limites da matriz.
+   em Moon.HabboHotel.Rooms.Chat.Commands.Administrator.SendGraphicAlertCommand.Execute(GameClient Session, Room Room, String[] Params) na C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\HabboHotel\Rooms\Chat\Commands\Administrator\SendGraphicAlertCommand.cs:linha 31
+   em Moon.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) na C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:linha 158
+   em Moon.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) na C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:linha 94
+   em Moon.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) na C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\Communication\Packets\PacketManager.cs:linha 167
+   em Moon.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) na C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\HabboHotel\GameClients\GameClient.cs:linha 89
+
+
+Error in packet [2988] BODY: [0][0][0]Jeremias: 
+System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Moon.Communication.Packets.Incoming.Catalog.CheckGnomeNameEvent.Parse(GameClient Session, ClientPacket Packet) na C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\Communication\Packets\Incoming\Catalog\CheckGnomeNameEvent.cs:linha 232
+   em Moon.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) na C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\Communication\Packets\PacketManager.cs:linha 167
+   em Moon.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) na C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\HabboHotel\GameClients\GameClient.cs:linha 89
+
+
+Error in packet [2988] BODY: [0][0][0]sda: 
+System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Moon.Communication.Packets.Incoming.Catalog.CheckGnomeNameEvent.Parse(GameClient Session, ClientPacket Packet) na C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\Communication\Packets\Incoming\Catalog\CheckGnomeNameEvent.cs:linha 232
+   em Moon.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) na C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\Communication\Packets\PacketManager.cs:linha 167
+   em Moon.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) na C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\HabboHotel\GameClients\GameClient.cs:linha 89
+

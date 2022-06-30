@@ -1,0 +1,12 @@
+C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\bin\Debug\Moon Server.exe.config
+C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\bin\Debug\Moon Server.exe
+C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\bin\Debug\Moon Server.pdb
+C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\bin\Debug\Fleck.dll
+C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\bin\Debug\log4net.dll
+C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\bin\Debug\MySql.Data.dll
+C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\bin\Debug\log4net.xml
+C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\obj\x86\Debug\Moon.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\obj\x86\Debug\Moon.csproj.CopyComplete
+C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\obj\x86\Debug\Moon Server.exe
+C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\obj\x86\Debug\Moon Server.pdb
+C:\Users\FAMILIA\Desktop\RELEASES\MOON 02\obj\x86\Debug\Moon.csprojAssemblyReference.cache
